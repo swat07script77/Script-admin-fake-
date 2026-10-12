@@ -1,0 +1,14 @@
+day = 11
+function
+bringnpc name play
+loopbringnpc name play
+looptpbringnpc name play 
+sitnpc
+toolbringnpc 
+toolkill
+toolfling
+day = 12
+function 
+menukill
+menufling
+tpwalltop
