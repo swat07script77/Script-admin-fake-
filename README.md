@@ -1,3 +1,5 @@
+<img width="1650" height="500" alt="Screenshot_20261008-000253" src="https://github.com/user-attachments/assets/03e0ea22-841c-43aa-95af-0cfa0607dbea" /> 
+
 # 🎮 CommandMenu
 
 An in-game command menu for Roblox featuring a modern UI, fuzzy search, and chat-based command execution (`;`, `:`, `/`).
